@@ -4,6 +4,7 @@ Food Fight Defense is a strategic auto-battler game about armies of sentient foo
 
 Play with up to three other people, and defend yourself by cooking dishes and plating your foods in a wave-based assault on your meal!
 
+I don't have much to show just yet but here are some pictures of our concept art.
 (coming not very soon)
 
 <img width="2048" height="2048" alt="American" src="https://github.com/user-attachments/assets/c35e857f-b227-4fa1-9aa4-00f684e5abe4" />
