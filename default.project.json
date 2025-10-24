@@ -4,9 +4,7 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Something": {
-        "$path": "src/ReplicatedStorage"
-      },
+      "$path": "src/ReplicatedStorage",
       
       "Packages": {
         "$path": "Packages"
@@ -14,16 +12,8 @@
 
     },
 
-    "ServerScriptService": {
-      "Server": {
-        "$path": "src/ServerScriptService"
-      },
-      "ServerPackages": {
-        "$path": "ServerPackages"
-      },
-      "Data": {
-        "$path": "sData"
-      }
+    "ServerScriptService" : {
+      "$path": "src/ServerScriptService"
     },
 
     "StarterPlayer": {
